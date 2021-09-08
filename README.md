@@ -12,7 +12,7 @@
 - Above the commands for connecting the repo to your localhost, GitHub will be automatically using `HTTP` - click `SSH`
 - In Git Bash, make a new directory where you want your repo to be
 - Follow the commands provided by GitHub to connect your current directory to the repo
-> If there is a problem verifying your git commit or git push, you might have to use the following commands to attach your name and GitHub email address to your commits:
-> git config --global user.email "you@example.com"
-> git config --global user.name "Your Name"
+> If there is a problem verifying your git commit or git push, you might have to use the following commands to attach your name and GitHub email address to your commits:  
+> `git config --global user.email "you@example.com"`  
+> `git config --global user.name "Your Name"`  
 > Then repeat the command that had a problem
