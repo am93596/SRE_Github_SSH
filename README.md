@@ -1,7 +1,7 @@
 # SSH setup between our Localhost and Github
 - Open Git Bash as Administrator
 - cd to the .ssh folder
-- Enter the following command: ssh-keygen -t rsa -b 4096 -C "amurphy@spartaglobal.com"
+- Enter the following command: `ssh-keygen -t rsa -b 4096 -C "amurphy@spartaglobal.com"`
 - For each of the subsequent questions asked, press `Enter`
 - In GitHub, go to Settings and click `SSH and GPG Keys`, then click `New SSH Key`
 - Name the key, e.g. `SRE_CICD`
